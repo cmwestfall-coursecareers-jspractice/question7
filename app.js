@@ -1,5 +1,3 @@
-// come back tomorrow and redo all of these. we have reached burnout for the day
-
 class Library {
   constructor() {
     this.books = [];
